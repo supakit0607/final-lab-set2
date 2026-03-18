@@ -1,0 +1,21 @@
+{
+  "name": "final-lab-set2-sec2-67543210046-8",
+  "version": "1.0.0",
+  "description": "**รายวิชา:** ENGSE207 Software Architecture  \r **มหาวิทยาลัย:** มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supakit0607/final-lab-set2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/supakit0607/final-lab-set2/issues"
+  },
+  "homepage": "https://github.com/supakit0607/final-lab-set2#readme"
+}
